@@ -1,0 +1,2 @@
+# superdiary
+diary
